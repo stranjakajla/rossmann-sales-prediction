@@ -1,0 +1,5 @@
+# Dataset (download from Kaggle, too large for GitHub)
+data/*.csv
+# Generated charts and results
+outputs/
+__pycache__/
